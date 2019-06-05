@@ -1,5 +1,7 @@
 # Akita Schematics
 
+**Deprecated** - Use `ng add @datorama/akita`
+
 Scaffolding library for Angular applications using Akita.
 
 akita-schematics provides CLI commands for generating files when building new features with Akita. Built on top of [`Schematics`](https://blog.angular.io/schematics-an-introduction-dc1dfbc2a2b2), this tool integrates with the [`Angular CLI`](https://cli.angular.io/).
